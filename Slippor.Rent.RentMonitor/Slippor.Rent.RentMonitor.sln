@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Rent.Common", "Slip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Common", "Slippor.Common\Slippor.Common.csproj", "{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Rent.BackTester", "Slippor.Rent.BackTester\Slippor.Rent.BackTester.csproj", "{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

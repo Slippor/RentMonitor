@@ -1,11 +1,49 @@
 ﻿<RecentFiles>
   <RecentFiles>
     <File id="CFCE6575-D4C3-4BDB-A44C-6DC6D6D0AB5B/f:MainWindow.xaml" caret="174" fromTop="2" />
-    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="223" fromTop="11" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:WebWorker/f:RentWebWorker.cs" caret="87" fromTop="4" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="151" fromTop="8" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:IWebWorker.cs" caret="0" fromTop="0" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="88" fromTop="5" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:AbstractWebWorker.cs" caret="409" fromTop="20" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:ReferrerBuilder.cs" caret="449" fromTop="17" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:WebWorker/f:GanjiWebWorker.cs" caret="283" fromTop="11" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Filter/f:QueryFilter.cs" caret="134" fromTop="7" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:ISpider.cs" caret="66" fromTop="2" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:AbstractSpider.cs" caret="399" fromTop="15" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:GanjiSpider.cs" caret="281" fromTop="10" />
+    <File id="5990BA02-44B1-4FC2-9A72-44EBDCC243EC/f:SpiderTest.cs" caret="233" fromTop="11" />
   </RecentFiles>
   <RecentEdits>
-    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="241" fromTop="12" />
-    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="520" fromTop="20" />
-    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="883" fromTop="14" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="23" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="33" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="0" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:WebWorker/f:RentWebWorker.cs" caret="137" fromTop="6" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:WebWorker/f:RentWebWorker.cs" caret="98" fromTop="4" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="14" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="1012" fromTop="10" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="230" fromTop="10" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="331" fromTop="13" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="435" fromTop="16" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="533" fromTop="19" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="637" fromTop="19" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="734" fromTop="22" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="834" fromTop="22" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="932" fromTop="31" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Infomation/f:RentInfomation.cs" caret="151" fromTop="8" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="12" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="13" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1091" fromTop="11" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="88" fromTop="5" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:UserAgents.cs" caret="1175" fromTop="5" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:ReferrerBuilder.cs" caret="442" fromTop="16" />
+    <File id="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6/d:WebWorker/f:ReferrerBuilder.cs" caret="299" fromTop="11" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:WebWorker/f:GanjiWebWorker.cs" caret="280" fromTop="11" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Filter/f:QueryFilter.cs" caret="134" fromTop="7" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:GanjiSpider.cs" caret="0" fromTop="0" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:AbstractSpider.cs" caret="399" fromTop="15" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:GanjiSpider.cs" caret="398" fromTop="14" />
+    <File id="56296662-9FB3-45AB-95D8-4E599092FF62/d:Spider/f:GanjiSpider.cs" caret="281" fromTop="10" />
+    <File id="5990BA02-44B1-4FC2-9A72-44EBDCC243EC/f:SpiderTest.cs" caret="245" fromTop="12" />
   </RecentEdits>
 </RecentFiles>

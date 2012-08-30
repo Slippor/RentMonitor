@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="56296662-9FB3-45AB-95D8-4E599092FF62" ModuleId="Slippor.Rent.Common" />
+  <Module PersistentId="D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6" ModuleId="Slippor.Common" />
+  <Module PersistentId="5990BA02-44B1-4FC2-9A72-44EBDCC243EC" ModuleId="Slippor.Rent.BackTester" />
 </Modules>
