@@ -1,8 +1,8 @@
-﻿using Slippor.Utility.WebWorker;
+﻿using Slippor.Common.WebWorker;
 
 namespace Slippor.Rent.Common
 {
-	public abstract class RentWebWorker : AbstractWebWorker
-	{
-	}
+    public abstract class RentWebWorker : BasicWebWorker
+    {
+    }
 }

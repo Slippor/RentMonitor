@@ -50,7 +50,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Filter\QueryFilter.cs" />
+    <Compile Include="Filter\FilterConfig.cs" />
+    <Compile Include="Filter\GanjiFilterBuilder.cs" />
+    <Compile Include="Filter\IFilterBuilder.cs" />
+    <Compile Include="Filter\AbstractFilterBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Infomation\RentInfomation.cs" />
     <Compile Include="Spider\AbstractSpider.cs" />
@@ -61,7 +64,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\Slippor.Common\Slippor.Common.csproj">
+    <ProjectReference Include="..\..\..\DevLibrary\Slippor.Common\Slippor.Common.csproj">
       <Project>{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}</Project>
       <Name>Slippor.Common</Name>
     </ProjectReference>

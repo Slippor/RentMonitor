@@ -40,10 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaiduSpider.cs" />
     <Compile Include="SpiderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\DevLibrary\Slippor.Common\Slippor.Common.csproj">
+      <Project>{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}</Project>
+      <Name>Slippor.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Slippor.Rent.Common\Slippor.Rent.Common.csproj">
       <Project>{56296662-9FB3-45AB-95D8-4E599092FF62}</Project>
       <Name>Slippor.Rent.Common</Name>

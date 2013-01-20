@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Rent.RentMonitor", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Rent.Common", "Slippor.Rent.Common\Slippor.Rent.Common.csproj", "{56296662-9FB3-45AB-95D8-4E599092FF62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Common", "Slippor.Common\Slippor.Common.csproj", "{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Common", "..\..\DevLibrary\Slippor.Common\Slippor.Common.csproj", "{D3AD518C-B70D-4BEB-8C6D-EF82DD6300F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slippor.Rent.BackTester", "Slippor.Rent.BackTester\Slippor.Rent.BackTester.csproj", "{5990BA02-44B1-4FC2-9A72-44EBDCC243EC}"
 EndProject
